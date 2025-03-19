@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ### Step 1: Clone the Repository
 ```
 git clone https://github.com/princemaxi/NBA_Datalake-Azure.git
-cd Projects/Week1/AzureDataLake
+cd NBA_Datalake-Azure
 ```
 ###  Step 2: Configure Environment Variables
 
